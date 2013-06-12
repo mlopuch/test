@@ -1,6 +1,8 @@
 
-* Cleans NWEA-name link and demog data for Island Park
+* Cleans NWEA-name link and demog data for NWEA Analysis
 * Updated June 10, 2013
+
+* still need to add global macros
 
 clear all
 foreach season in Fall Winter Spring {
