@@ -1,6 +1,7 @@
 
 * Cleans NWEA data for Utica
-* Updated June 11, 2013
+* Updated June 11, 2013 at 8pm
+* need to update this with macros
 
 ** Something weird is going on with Winter -- do we have hidden strings?
 * Verify that the data is as raw as it can get
